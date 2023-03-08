@@ -35,12 +35,6 @@
 
 }
 
-
-
-
-
-
-
 section, footer {
 	background: #fffcfc;
 }
@@ -60,15 +54,6 @@ a:focus{
 .container{
 	max-width: 1130px;
 }
-
-
-
-
-
-
-
-
-
 
 /*		Header 		*/
 
@@ -182,15 +167,6 @@ header .social li{
 header .social li:first-child{
 	margin: 0;
 }
-
-
-
-
-
-
-
-
-
 
 /*		Hero section 		*/
 
@@ -417,12 +393,10 @@ a.app_link{
 		margin-left: 10px;
 	}
 
-
-
-
-
-
 	/*		Hero section 		*/
+	.hero {
+		background: url('../img/hero-small.jpg') no-repeat fixed center center;
+}
 	.hero .caption{
 		margin-left: 0;
 	}
@@ -435,10 +409,6 @@ a.app_link{
 		text-align: center;
 	}
 
-
-
-
-
 	/*		Featured on section		*/
 	.featured_on{
 		padding: 25px 0 5px 0!important;
@@ -447,11 +417,6 @@ a.app_link{
 	.featured_on ul li{
 		margin-bottom: 25px!important;
 	}
-
-
-
-
-
 
 	/*		About Section 		*/
 	.about .features_list {
@@ -473,11 +438,6 @@ a.app_link{
 		display: block;
 		margin-top: 20px;
 	}
-
-
-
-
-
 
 	/*		Subscription section 		*/
 	.sub_box #mc-email,
